@@ -1,0 +1,8 @@
+# Public files only. Everything else stays local.
+/*
+!/.gitignore
+!/README.md
+!/assets/
+!/assets/**
+!/game/
+!/game/**
