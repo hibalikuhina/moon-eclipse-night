@@ -23,3 +23,7 @@
 主持过程中，按触发阶段查阅[人物秘密](game/host/character_reveals/)；玩家误判时查阅[误判路线](game/host/misjudgment_routes.md)。任何结局正文前都先执行终局前提示与收尾，再参考[结局文案](game/host/ending_scripts.md)，按玩家实际选择调整。
 
 四张私密角色卡分别是：[莱恩](game/player/private_leon.md)、[伊芙琳](game/player/private_evelyn.md)、[卡西安](game/player/private_cassian.md)、[莉西亚](game/player/private_lissia.md)。这是一份供主持人获取完整资料的发布包；玩家只应收到自己的角色卡与公开开场。
+
+## 授权
+
+[game/ 下的原创剧本文字采用 CC BY-NC-SA 4.0](LICENSE.md)：允许署名、非商业分享与改编，公开改编须沿用同一许可。商业使用请另行取得作者授权。assets/ 下的 AI 生成图片不包含在此许可中。
