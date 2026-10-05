@@ -6,8 +6,8 @@
 
 ## 从这里开始
 
-- **玩家：**先读[公开开场与选角信息](game/player/public_opening.md)，可看[角色展示图](assets/characters.png)。选定角色后，只读主持人发给你的对应私密角色卡。游玩前不要打开其他角色卡或 `game/host/`。
-- **主持人：**先读[主持规则：由玩家发现真相](game/host/gm_host_rules.md)，再按下面的顺序准备。开局向全体玩家提供公开开场；选角后，分别发放各自的角色卡。不要向玩家发送整个文件夹。
+- **玩家：**先读[游玩须知](game/player/play_guide.md)与[公开开场及选角信息](game/player/public_opening.md)，可看[角色展示图](assets/characters.png)。选定角色后，只读主持人发给你的对应私密角色卡。游玩前不要打开其他角色卡或 `game/host/`。
+- **主持人：**先读[主持规则：每轮核对与危机刻度](game/host/gm_host_rules.md)，再按下面的顺序准备。开局向全体玩家提供游玩须知和公开开场；选角后，分别发放各自的角色卡。不要向玩家发送整个文件夹。
 
 ## 主持人阅读顺序
 

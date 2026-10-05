@@ -1,10 +1,10 @@
 # 《月蚀之夜，龙没有醒来》｜游戏资料
 
-**主持人开局前必读：[由玩家发现真相](host/gm_host_rules.md)。角色和 NPC 只知道各自角色卡及游玩中实际获得的情报；调查由玩家发起。主持人不得替玩家串证据、解谜或让 NPC 提前知道主持人真相。仅在玩家明确求助或明显卡住时，才给可调查方向。**
+**主持人开局前必读：[每轮核对、危机刻度与由玩家发现真相](host/gm_host_rules.md)。每轮先核对相关剧本和角色已知信息，再回答玩家。调查由玩家发起；主持人不得编造实质线索、替玩家解谜或让 NPC 提前知道主持人真相。仅在玩家明确求助或明显卡住时，才给可调查方向。**
 
 ## 分发
 
-开局向所有玩家提供[公开开场](player/public_opening.md)。选角后，仅向该玩家提供对应角色卡：[莱恩](player/private_leon.md)、[伊芙琳](player/private_evelyn.md)、[卡西安](player/private_cassian.md)、[莉西亚](player/private_lissia.md)。`host/` 下的文件只供主持人使用。
+开局向所有玩家提供[玩家游玩须知](player/play_guide.md)与[公开开场](player/public_opening.md)。选角后，仅向该玩家提供对应角色卡：[莱恩](player/private_leon.md)、[伊芙琳](player/private_evelyn.md)、[卡西安](player/private_cassian.md)、[莉西亚](player/private_lissia.md)。`host/` 下的文件只供主持人使用。
 
 ## 主持人阅读顺序
 
