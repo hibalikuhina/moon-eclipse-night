@@ -4,7 +4,7 @@
 
 ## 分发
 
-开局先向所有玩家发送[玩家游玩须知全文](player/play_guide.md)，再发送[公开开场](player/public_opening.md)。选角后，仅向该玩家提供对应角色卡：[莱恩](player/private_leon.md)、[伊芙琳](player/private_evelyn.md)、[卡西安](player/private_cassian.md)、[莉西亚](player/private_lissia.md)。`host/` 下的文件只供主持人使用。
+开局第一条回复按[主持规则](host/gm_host_rules.md)向所有玩家发送[玩家游玩须知](player/play_guide.md)与[公开开场](player/public_opening.md)的可点击链接。选角后，仅向该玩家提供对应角色卡：[莱恩](player/private_leon.md)、[伊芙琳](player/private_evelyn.md)、[卡西安](player/private_cassian.md)、[莉西亚](player/private_lissia.md)。`host/` 下的文件只供主持人使用。
 
 ## 主持人阅读顺序
 
